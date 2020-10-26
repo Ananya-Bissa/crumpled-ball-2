@@ -16,7 +16,7 @@ function setup() {
 
 	paperObject = new Paper(200, 450, 70);
 	groundObject = new Ground(width / 2, 620, width, 20);
-	dustbin1 = new Dustbin(1200, 600);
+	dustbin1 = new Dustbin(1100, 600);
 	
 	//Create a Ground
 
